@@ -29,7 +29,7 @@ A API permite:
 
 ## Stack utilizada
 
-- Python 3.12+
+- Python
 - FastAPI
 - SQLAlchemy 2.x
 - Alembic
