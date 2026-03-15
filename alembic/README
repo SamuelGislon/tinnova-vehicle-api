@@ -1,0 +1,2 @@
+Configuração de migrations do projeto.
+As versões geradas ficarão em alembic/versions.
